@@ -1,0 +1,64 @@
+* {
+    font-family: Helvetica, Verdana, sans-serif;
+    background-color: white;
+}
+
+.image_1 {
+    margin: 10px auto;
+    display: block;
+}
+
+.header {
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+}
+
+.banner {
+    font-size: large;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0px;
+}
+
+.description {
+    background-color: bisque;
+    padding: 10px;
+    margin: 8px 0px;
+}
+
+.header, .banner{
+    background-color: gold;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+}
+
+ul, ol {
+    margin: 8px 0px;
+}
+
+
+ul li, ul li em {
+    background-color: bisque;
+    padding: 0px 10px;
+    margin: 0px;
+}
+
+ul li em {
+    background-color: bisque;
+    padding: 0px 0px;
+}
+
+ol li {
+    background-color: bisque;
+    padding: 0 10px;
+    margin: 0px;
+}
+
+div {
+    background-color: bisque;
+    padding: 10px;
+}
+
